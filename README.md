@@ -19,7 +19,8 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
     - [LinkedIn](https://www.linkedin.com/in/oladogba/ "LinkedIn") | [Portfolio](https://babatunde.me "portfolio") | [Medium](https://medium.com/@oladogba "Medium") | [Insagram](https://instagram.com/wapmasta "Instagram") |[Twitter](https://twitter.com/wapmasta "Twitter") | [Email](mailto:babatunde@oladogba.com)
   
 
----
+#
+
 
 ### 👨‍💻 Learning
 
@@ -33,9 +34,9 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
 #
 
----
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=wapmasta)
 
