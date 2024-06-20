@@ -12,6 +12,7 @@ My Interests are in Sustainable Architecture, Project Management, BIM, Machine L
 
 When I am not designing or coding, I write 👨‍💻. You can find some of my articles on my [Blog](https://oladogba.com/blog "My Blog") or [Medium](https://medium.com/@oladogba "Medium")
 
+#
 
 - 👀 I’m looking to collaborate on Web Development projects.
 - 👌 You can Find on Social Apps 😊:
