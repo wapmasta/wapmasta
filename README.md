@@ -35,6 +35,7 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
 
 #
 
+---
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=wapmasta)
 
@@ -44,7 +45,7 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapmasta&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/wapmasta/wapmasta">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=wapmasta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Babatunde Oladogba's GitHub Stats" />
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=wapmasta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wapmasta's GitHub Stats" />
 </a>  
 
 <!-- Streak -->
