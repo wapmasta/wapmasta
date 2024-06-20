@@ -2,7 +2,7 @@
 
 #  👋 Babatunde Oladogba
 
-**`Project Architecz & Web designer`**
+**`Project Architect & Web designer`**
 
 Over the last decade, I have worked in the fields of Architecture, Web development, IT and Project Management.
 
