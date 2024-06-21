@@ -1,6 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Babatunde+Oladogba;" />
+</h1> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wapmasta" />
 
-
-#  👋 Babatunde Oladogba
+#  
 
 **`Project Architect & Web designer`**
 
@@ -37,19 +39,10 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
 
 #
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=wapmasta)
-
-
-
-<a href="https://github.com/wapmasta/wapmasta">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapmasta&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/wapmasta/wapmasta">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=wapmasta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wapmasta's GitHub Stats" />
 </a>  
 
-<!-- Streak -->
 #
 <!-- <p align="center"> -->
   <a href="https://babatunde.me">
