@@ -17,7 +17,7 @@ When I am not designing or coding, I write 👨‍💻. You can find some of my 
 
 - 👀 I’m looking to collaborate on Web Development projects.
 - 👌 You can Find on Social Apps 😊:
-    - [LinkedIn](https://www.linkedin.com/in/oladogba/ "LinkedIn") | [Portfolio](https://babatunde.me "portfolio") | [Medium](https://medium.com/@oladogba "Medium") | [Insagram](https://instagram.com/wapmasta "Instagram") |[Twitter](https://twitter.com/wapmasta "Twitter") | [Email](mailto:babatunde@oladogba.com)
+    - [LinkedIn](https://www.linkedin.com/in/oladogba/ "LinkedIn") | [Portfolio](https://babatunde.me "portfolio") | [Medium](https://medium.com/@oladogba "Medium") | [Insagram](https://instagram.com/wapmasta "Instagram")  | [Email](mailto:babatunde@oladogba.com)
   
 
 #
